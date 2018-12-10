@@ -73,8 +73,9 @@
 }
 .title{
 	font-size:24px;
-	color:#fff;
+	color:#fff;E6E6E6
 	font-family: 'Roboto', sans-serif;
+	margin-bottom: 25px;
 
 }
 .text-box{
@@ -109,16 +110,16 @@ h2{
 }
 .image-box:nth-child(2){
 	font-size:40px;
-	background: red;
+	background:#E6E6E6;
 }
 .image-box:first-child{
-	background: blue;
+	background: #E6E6E6	;
 }
 .image-box:nth-child(3){
-	background: grey;
+	background: #E6E6E6;
 }
 .image-box:nth-child(4){
-	background: aqua;
+	background: #E6E6E6;
 }
 
 .bg-color{
